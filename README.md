@@ -7,10 +7,15 @@ Dataset
 This dataset contains data about lung cancer Mortality and is a comprehensive collection of patient information, specifically focused on individuals diagnosed with cancer.
 
 Description of columns:
+
 ● id: A unique identifier for each patient in the dataset.
+
 ● age: The age of the patient at the time of diagnosis.
+
 ● gender: The gender of the patient (e.g., male, female).
+
 ● country: The country or region where the patient resides.
+
 ● diagnosis_date: The date on which the patient was diagnosed with lung cancer.
 ● cancer_stage: The stage of lung cancer at the time of diagnosis (e.g., Stage I, Stage II, Stage III, Stage IV).
 ● family_history: Indicates whether there is a family history of cancer (e.g., yes, no).
